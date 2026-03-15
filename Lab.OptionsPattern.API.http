@@ -1,0 +1,6 @@
+@Lab.OptionsPattern.API_HostAddress = http://localhost:5272
+
+GET {{Lab.OptionsPattern.API_HostAddress}}/
+Accept: application/json
+
+###
